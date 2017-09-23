@@ -3,10 +3,14 @@
   display: none;
 }
 
-#tag-2 {
+div #wall #tag-2 {
   display: none;
 }
 
-div #tag-3 .slick-wicked {
+div #wall div #tag-3 .slick {
+  display: none;
+}
+
+div #wall div .parent div #tag-4 {
   display: none;
 }
