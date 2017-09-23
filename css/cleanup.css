@@ -3,14 +3,16 @@
   display: none;
 }
 
-div #wall #tag-2 {
+div#wall #tag-2 {
   display: none;
 }
 
-div #wall div #tag-3 .slick {
+div#wall div#tag-3 .slick {
   display: none;
 }
 
-div #wall div .parent div #tag-4 {
+div#wall div.parent div#tag-4 {
   display: none;
 }
+
+div#wall div.parent div#tag-5.slick
